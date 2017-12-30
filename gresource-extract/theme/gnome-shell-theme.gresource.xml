@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
   <gresource prefix="/org/gnome/shell/theme">
+    <file>gnome-shell-theme.gresource.xml</file>
     <file>toggle-off-us.svg</file>
     <file>page-indicator-inactive.svg</file>
     <file>calendar-arrow-left.svg</file>
@@ -27,6 +28,7 @@
     <file>pad-osd.css</file>
     <file>checkbox.svg</file>
     <file>toggle-off-intl.svg</file>
+    <file>gnome-shell-theme.gresource</file>
     <file>page-indicator-checked.svg</file>
     <file>close-window.svg</file>
     <file>gnome-shell.css</file>

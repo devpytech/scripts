@@ -1640,7 +1640,10 @@ StScrollBar {
         icon-shadow: none; }
 
 .login-dialog-logo-bin {
-  padding: 24px 0px; }
+  padding: 24px 0px; 
+  background: url(resource:///org/gnome/shell/theme/devpy.png);
+  background-repeat:no-repeat;
+}
 
 .login-dialog-banner {
   color: #d6d6d1; }
@@ -1791,7 +1794,9 @@ StScrollBar {
 
 #lockDialogGroup {
   background: #2e3436 url(resource:///org/gnome/shell/theme/background.jpg);
-  background-repeat: repeat; }
+  background-size: cover;
+  background-repeat: none;
+}
 
 #screenShieldNotifications StButton#vhandle, #screenShieldNotifications StButton#hhandle {
   background-color: rgba(57, 63, 63, 0.3); }
