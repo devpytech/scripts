@@ -1,6 +1,6 @@
-### Editing the current theme
+# [ARTICLE](https://www.devpy.me/the-best-linux-lockscreen/)
 
-Download the scripts [on the DevPy GitHub here](https://github.com/devpytech/scripts/tree/master/gresource-extract). Then run `./extract.sh` to extract your current theme to `./theme` in the same folder as the extract script.
+Run `./extract.sh` to extract your current theme to `./theme` in the same folder as the extract script.
 
 #### Editing the font
 
