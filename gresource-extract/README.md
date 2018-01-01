@@ -1,4 +1,4 @@
-# [ARTICLE](https://www.devpy.me/the-best-linux-lockscreen/)
+# [Article](https://www.devpy.me/the-best-linux-lockscreen/)
 
 Run `./extract.sh` to extract your current theme to `./theme` in the same folder as the extract script.
 
