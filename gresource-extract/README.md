@@ -1,5 +1,7 @@
 # [Article](https://www.devpy.me/the-best-linux-lockscreen/)
 
+# GRESOURCE Extractor for customizing login themes
+
 Run `./extract.sh` to extract your current theme to `./theme` in the same folder as the extract script.
 
 #### Editing the font
