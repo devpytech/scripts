@@ -2,8 +2,8 @@
 
 workdir=${PWD}
 
-if [ ! -d ${workdir}/theme ]; then
-  mkdir -p ${workdir}/theme
+if [ ! -d ${workdir}/theme/icons ]; then
+  mkdir -p ${workdir}/theme/icons
 fi
 
 gst=/usr/share/gnome-shell/gnome-shell-theme.gresource
