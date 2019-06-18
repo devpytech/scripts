@@ -2,6 +2,12 @@
 
 # GRESOURCE Extractor for customizing login themes
 
+#### Dependencies
+
+- libxml2-utils 
+
+ sudo apt install libxml2-utils
+
 Run `./extract.sh` to extract your current theme to `./theme` in the same folder as the extract script.
 
 #### Editing the font
